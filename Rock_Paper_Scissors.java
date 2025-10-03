@@ -1,4 +1,4 @@
-package Games_Raw_Codes;
+package Beginner_project_1;
 
 import java.util.*;
 
